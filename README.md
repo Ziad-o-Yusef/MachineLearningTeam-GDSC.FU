@@ -6,5 +6,5 @@ ________________________________________________________________________________
 
 | Chapter   | Session  | Content |
 | ------------- | ------------- | ------------- |
-| Python  | python basics 1 | varibles , D.types,Lists |
+| Python  | python basics 1 | Varibles - Data types - Lists - Dicts - converting DT |
 
