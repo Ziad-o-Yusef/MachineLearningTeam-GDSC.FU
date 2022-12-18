@@ -5,6 +5,6 @@ ________________________________________________________________________________
 ## Content Table 
 
 | Chapter   | Session  | Content |
-| ------------- | ------------- || ------------- |
-| Python  | python basics 1 || varibles , D.types,Lists |
+| ------------- | ------------- | ------------- |
+| Python  | python basics 1 | varibles , D.types,Lists |
 
