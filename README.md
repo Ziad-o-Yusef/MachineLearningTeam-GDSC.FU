@@ -14,5 +14,7 @@ ________________________________________________________________________________
 | Math    | Advanced stat | https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566 | 
 | Math    | Advanced prob | https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19 | 
 | Math    | Linear Algebra | https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab | 
-| DA Wth Python | Numpy & Pandas 1 | Numpy arrays - Higher Dims - Nmpay oprations - Pandas Intro | 
+| DA With Python | Numpy & Pandas  | Numpy arrays - Higher Dims - Nmpay oprations - Pandas Intro | 
+| DA With Python | Matblotlip & seaborn | Analytical thinking - Data exploration - Data visualization | 
+
 
